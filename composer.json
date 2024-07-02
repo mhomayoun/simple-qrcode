@@ -1,6 +1,7 @@
 {
-    "name": "simplesoftwareio/simple-qrcode",
+    "name": "mhomayoun/simple-qrcode",
     "description": "Simple QrCode is a QR code generator made for Laravel.",
+    "version": "4.2.1",
     "keywords": ["qrcode", "laravel", "simple", "generator", "wrapper"],
     "homepage": "https://www.simplesoftware.io/#/docs/simple-qrcode",
     "license" : "MIT",
